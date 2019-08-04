@@ -25,7 +25,7 @@ SECRET_KEY = 'o)+r@d$!j*#k#i8h6p$hb2lur=0_)$#dl%^mylo)iodlvx5t%g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['haedal.pythonanywhere.com']
 
 
 # Application definition
